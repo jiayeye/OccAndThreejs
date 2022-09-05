@@ -6,9 +6,9 @@
 
 1.配置emscritption：https://ihaier.feishu.cn/docs/doccnwI3tlLwsbjCpuufMKGDH0d
 
-2.编译occ：https://ihaier.feishu.cn/docs/doccnYpn6LJ7LDSx15f517wvgYc，由于编译
+2.编译occ：https://ihaier.feishu.cn/docs/doccnYpn6LJ7LDSx15f517wvgYc
 
-    需要写入大量.a库，方便起见编写 emcc_cmd.js 脚本使用方法:
+    由于编译需要写入大量.a库，方便起见编写 emcc_cmd.js 脚本使用方法:
   
     cd occ_threejs
   
